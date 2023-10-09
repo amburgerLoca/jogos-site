@@ -1,4 +1,4 @@
 
 
 
-<a href="https://amburgerloca.github.io/jogos-site/"># jogos-site</a>
+<a href="https://amburgerloca.github.io/jogos-site/jogos-main"># jogos-site</a>
